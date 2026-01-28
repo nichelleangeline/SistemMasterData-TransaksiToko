@@ -1,4 +1,3 @@
-# TesTirtakencana
 # Sistem Master Data & Transaksi Toko
 
 Project ini adalah aplikasi berbasis **Laravel** untuk mengelola **master data toko, transaksi, area sales, dan sales person** dengan alur yang **terkontrol dan saling bergantung antar tabel** (tidak CRUD sembarangan).
@@ -158,3 +157,4 @@ Jika urutan dilanggar, sistem akan:
 Ini **disengaja**, bukan bug.
 
 ---
+
